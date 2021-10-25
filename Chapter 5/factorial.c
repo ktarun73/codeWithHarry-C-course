@@ -1,5 +1,5 @@
 #include <stdio.h>
-int factorial(int x)
+int factorial(int x)// recursive function
 {
 
     if (x == 0 || x == 1)
