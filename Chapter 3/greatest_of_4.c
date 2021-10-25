@@ -20,14 +20,5 @@ int main()
     {
         printf("%d is greater ", d);
     }
-    
-    {
-        /* code */
-    }
-    
-    {
-        /* code */
-    }
-    
     return 0;
 }
